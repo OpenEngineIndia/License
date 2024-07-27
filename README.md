@@ -10,10 +10,7 @@ Our custom operating systems are distributed under our proprietary in-house deli
 
 ### Available Licenses
 
-- **License v1.0**: Initial release
-- **License v1.1**: Minor updates and clarifications
-- **License v2.0**: Major updates, new terms, and conditions
-- **License v2.1**: Patch updates and revisions
+- **OpenEngine License v1.0.1**: Initial release
 
 ## How to Use
 
