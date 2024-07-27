@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` for your GitHub repository named `license`:
-
----
-
 # License Repository
 
 ## Overview
